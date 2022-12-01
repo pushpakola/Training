@@ -1,0 +1,64 @@
+PL / Front End / Client Side
+============================
+Technologies:
+------------
+HTML 5 --> Tags are here where browser understands
+CSS 3  --> We can design good web pages using layouts
+Bootstrap --> Responsive Web Pages
+
+F/M
+===
+PL : JavaScript
+F/M : React Js --> Services
+
+PL : Typescript
+F/M : Angular --> Services
+
+Middleware // Backend // Serverside
+1.JavaScript (node)
+2. Java 
+3. Python 
+4. PHP
+5. Ruby etc...
+
+2. Java 
+=======
+Core Java (j2se) 30 hrs
+Adv Java (j2ee -- JDBC, Servlets, JSP, JSTL Tags) 10 hrs
+Hibernate F/M 
+Spring F/M
+Spring Boot with MicroServices (end points)
+
+BackEnd:
+=======
+SQL:
+===
+MySQL
+Oracle 
+
+NoSQL:
+======
+Mongo DB
+Casandra
+
+Tranlators:
+
+1.Assembler
+2.Compiler : It Converts the source code to byte code for the execution (at a time we can compile 100 lines code)
+3.Interpreter: It will run the code line by line 
+
+Static and Dynamic PL:
+C, C++ are static because memory is allocate at compile time PD
+
+Java memory is allocated at runtime PD
+
+Datatypes:
+8 DataTypes
+
+
+
+
+
+
+
+
